@@ -14,9 +14,9 @@ permalink: /peizhi/
 - 照片卡：8 种中随机 1 种（各版本图片不同）
 - 初版限定海报：赠送版各1种，各版本图片不同
 - 详细组件（每个版本不同）
-  A版：附赠迷你海报
-  B版：附赠lenticular card
-  C版：附赠Photomatic & 书签
+  - A版：附赠迷你海报
+  - B版：附赠lenticular card
+  - C版：附赠Photomatic & 书签
 
 ### Digipack版 :
 - 封面：8 种
