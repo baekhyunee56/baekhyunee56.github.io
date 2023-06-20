@@ -22,8 +22,8 @@ favicon: https://raw.githubusercontent.com/baekhyunee56/baekhyunee56.github.io/m
 navigation:
   - name: 首页
     url: /
-  #- name: 关于
-  #  url: /about
+  - name: 专辑配置
+    url: /peizhi
   #- name: 归档
   #  url: /archive
   #- name: 标签
