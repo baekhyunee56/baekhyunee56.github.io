@@ -22,12 +22,12 @@ favicon: https://raw.githubusercontent.com/kexin56/kexin56.github.io/master/imag
 navigation:
   - name: 首页
     url: /
-  - name: 关于
-    url: /about
-  - name: 归档
-    url: /archive
-  - name: 标签
-    url: /tags
+  #- name: 关于
+  #  url: /about
+  #- name: 归档
+  #  url: /archive
+  #- name: 标签
+  #  url: /tags
 
 # Pagination
 paginate: 8
