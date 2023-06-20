@@ -24,8 +24,8 @@ navigation:
     url: /
   - name: 专辑配置
     url: /peizhi
-  #- name: 归档
-  #  url: /archive
+  - name: 注意事项
+    url: /attantion
   #- name: 标签
   #  url: /tags
 
