@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 注意事项
-permalink: /attation/
+permalink: /attantion/
 ---
 
 请在边吧购买指定伯贤特典卡的宝宝，或是拼车的伯贤位车主务必注意如下信息——
