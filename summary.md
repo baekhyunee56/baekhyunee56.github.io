@@ -1,7 +1,7 @@
 ---
 layout: page
-title: EXO七辑 EXIST 伯贤平台特典 [@边伯贤FearlessBaek](https://weibo.com/u/3694863325)
-permalink: /table/
+title: 伯贤平台特典卡进度
+permalink: /summary/
 ---
 
 
