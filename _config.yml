@@ -26,8 +26,8 @@ navigation:
     url: /peizhi
   - name: 注意事项
     url: /attantion
-  #- name: 标签
-  #  url: /tags
+  - name: 特典卡进度
+    url: /summary
 
 # Pagination
 paginate: 8
