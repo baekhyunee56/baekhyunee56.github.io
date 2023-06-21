@@ -25,7 +25,7 @@ navigation:
   - name: 专辑配置
     url: /peizhi
   - name: 注意事项
-    url: /attantion
+    url: /attention
   - name: 特典卡进度
     url: /summary
 
