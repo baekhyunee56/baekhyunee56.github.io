@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 注意事项
-permalink: /attantion/
-toc: true
+permalink: /attention/
+# toc: true
 ---
 
 ## 注意事项
