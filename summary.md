@@ -28,13 +28,11 @@ EXO七辑 EXIST 伯贤平台特典 [@边伯贤FearlessBaek](https://weibo.com/u/
           </tr>
           <tr>
             <td style="vertical-align: middle">MS(PB)<br><img src="https://github.com/baekhyunee56/baekhyunee56.github.io/assets/137210713/6db205a4-59e4-4873-9db7-9fcb6f0fdd99" /></td>
-            <td style="vertical-align: middle">微店 指定（6.21）（已截）</td>
+            <td style="vertical-align: middle">微店 指定（6.21）（已截）；<br> MS随机 （进行中）<a href="https://github.com/baekhyunee56/baekhyunee56.github.io/assets/137210713/37bb4926-a2a8-4e9c-b881-a223c5482dd7">保存二维码</a></td>
           </tr>
         </table>
     </div>
 </div>
 </font>
-
-
 
 
