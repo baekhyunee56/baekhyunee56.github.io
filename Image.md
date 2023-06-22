@@ -19,15 +19,15 @@ permalink: /Image/
             <td>来源</td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">1<br><img src="https://github.com/ashincc777/ashincc777.github.io/assets/137311842/77288132-0f53-464f-b262-d8fac01bd26a" /></td>
-            <td style="vertical-align: middle">伯贤<br>生日会<a href="https://github.com/ashincc777/ashincc777.github.io/assets/137311842/77288132-0f53-464f-b262—d8fac01bd26a">一样的图片</a></td>
+            <td style="vertical-align: middle">1<br><img src="https://raw.githubusercontent.com/ashincc777/image/main/202306221719916.jpg" /></td>
+            <td style="vertical-align: middle">伯贤<br>生日会<a href="https://raw.githubusercontent.com/ashincc777/image/main/202306221719916.jpg">一样的图片</a></td>
           </tr> 
           <tr>
-           <td style="vertical-align: middle">2<br><img src="https://raw.githubusercontent.com/ashincc777/image/main/202306221701482.jpg" /></td>
-           <td style="vertical-align: middle">伯贤<br>打歌<a href="https://raw.githubusercontent.com/ashincc777/image/main/202306221701482.jpg">一样的图片</a></td>
+           <td style="vertical-align: middle">2<br><img src="https://raw.githubusercontent.com/ashincc777/image/main/202306221722740.jpg" /></td>
+           <td style="vertical-align: middle">伯贤<br>演唱会<a href="https://raw.githubusercontent.com/ashincc777/image/main/202306221722740.jpg">一样的图片</a></td>
           </tr>
         </table>
     </div>
 </div>
 </font>
-
+![](https://raw.githubusercontent.com/ashincc777/image/main/202306221722740.jpg)
