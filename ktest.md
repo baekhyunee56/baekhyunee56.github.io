@@ -1,11 +1,9 @@
 ---
 layout: page
-title: 伯贤平台特典卡进度
-permalink: /summary/
+title: ktest
+permalink: /ktest/
 ---
 
-
-EXO七辑 EXIST 伯贤平台特典 [@边伯贤FearlessBaek](https://weibo.com/u/3694863325)
 
 
 
