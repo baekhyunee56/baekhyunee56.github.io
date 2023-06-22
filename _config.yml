@@ -20,14 +20,14 @@ favicon: https://raw.githubusercontent.com/baekhyunee56/baekhyunee56.github.io/m
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: 1（首页）
+  - name: 首页
     url: /
-  - name: 2（专辑配置）
-    url: /peizhi
-  - name: 3（注意事项）
-    url: /attention
-  - name: 4伯贤图片
+  - name: 伯贤照片
     url: /Image
+  - name: 注意事项
+    url: /attention
+  - name: 伯贤图片
+    url: /peizhi
     
 # Pagination
 paginate: 8
