@@ -20,7 +20,7 @@ favicon: https://raw.githubusercontent.com/baekhyunee56/baekhyunee56.github.io/m
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: 1（原首页）
+  - name: 1（首页）
     url: /
   - name: 2（专辑配置）
     url: /peizhi
