@@ -30,4 +30,4 @@ permalink: /Image/
     </div>
 </div>
 </font>
-![](https://raw.githubusercontent.com/ashincc777/image/main/202306221722740.jpg)
+
