@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "BAMBI"
-date:   2023-06-20
-tags: [exist]
+date:   2023-06-21
+tags: [exist2]
 comments: true
 author: ashincc777
 toc: true
@@ -12,7 +12,7 @@ toc: true
 
 专辑配置图暂未公布，文字版本指路[**🔗**](https://baekhyunee56.github.io/peizhi/)，**请务必先搞懂配置再下单**
 
-<!-- more -->
+<!-- 点我 -->
 
 ### 指定特典卡链接
 
