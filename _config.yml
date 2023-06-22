@@ -26,7 +26,7 @@ navigation:
     url: /Image
   - name: 注意事项
     url: /attention
-  - name: 伯贤图片
+  - name: 配置
     url: /peizhi
     
 # Pagination
