@@ -62,11 +62,11 @@ footer-text: Copyright (c) 2019 lemon
 disqus: # fromendworld
 
 # Gitalk
-gitalk:
-  clientID: 8f0c6765d22bbe67aac4
-  clientSecret: 7e06060f61b959bfd4f284cd79b4e947295527be
-  repo: baekhyunee56.github.io
-  owner: baekhyunee56
+#gitalk:
+#  clientID: 8f0c6765d22bbe67aac4
+#  clientSecret: 7e06060f61b959bfd4f284cd79b4e947295527be
+#  repo: baekhyunee56.github.io
+#  owner: baekhyunee56
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: G-MX061G8FWG
