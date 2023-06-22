@@ -24,7 +24,7 @@ EXO七辑 EXIST 伯贤平台特典 [@边伯贤FearlessBaek](https://weibo.com/u/
           </tr>
           <tr>
             <td style="vertical-align: middle">AM（PB）<br><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png"/></td>
-            <td style="vertical-align: middle">指定特典@LOP（6.19/售罄）；<br> AM随机8拼1（进行中）<a href="http://m.liveonepick.com/#/?productId=61e52d76e1e746b4967e9c4905a8f31a&continueFlag=1961b80f775bfd9263cb4ee8416fc63d">LOP平台购买</a></td>
+            <td style="vertical-align: middle">指定特典@LOP（6.19/售罄）；<br> AM随机8拼（进行中）<a href="http://m.liveonepick.com/#/?productId=61e52d76e1e746b4967e9c4905a8f31a&continueFlag=1961b80f775bfd9263cb4ee8416fc63d">LOP平台购买</a></td>
           </tr>
           <tr>
             <td style="vertical-align: middle">SR（PB）<br><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" /></td>
