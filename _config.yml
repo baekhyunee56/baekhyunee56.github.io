@@ -26,10 +26,6 @@ navigation:
     url: /peizhi
   - name: 3（注意事项）
     url: /attention
-  - name: 4（特典卡进度）
-    url: /summary
-  - name: 5（试试）
-    url: /BAMBI
     
 # Pagination
 paginate: 8
