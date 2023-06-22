@@ -28,7 +28,9 @@ navigation:
     url: /attention
   - name: 4（特典卡进度）
     url: /summary
-
+  - name: 5（试试）
+    url: /BAMBI
+    
 # Pagination
 paginate: 8
 
