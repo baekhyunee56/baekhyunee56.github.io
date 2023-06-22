@@ -23,8 +23,8 @@ permalink: /Image/
             <td style="vertical-align: middle">伯贤<br>生日会<a href="https://github.com/ashincc777/ashincc777.github.io/assets/137311842/77288132-0f53-464f-b262—d8fac01bd26a">一样的图片</a></td>
           </tr> 
           <tr>
-            <td style="vertical-align: middle">2<br><img src="https://raw.githubusercontent.com/ashincc777/image/main/202306221701482" /></td>
-            <td style="vertical-align: middle">伯贤<br>音乐节<a href="https://raw.githubusercontent.com/ashincc777/image/main/202306221701482">一样的图片</a></td>
+           <td style="vertical-align: middle">1<br><img src="https://github.com/ashincc777/ashincc777.github.io/assets/137311842/77288132-0f53-464f-b262-d8fac01bd26a" /></td>
+           <td style="vertical-align: middle">伯贤<br>生日会<a href="https://github.com/ashincc777/ashincc777.github.io/assets/137311842/77288132-0f53-464f-b262—d8fac01bd26a">一样的图片</a></td>
           </tr>
         </table>
     </div>
