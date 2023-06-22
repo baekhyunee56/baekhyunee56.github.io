@@ -26,6 +26,8 @@ navigation:
     url: /peizhi
   - name: 3（注意事项）
     url: /attention
+  - name: 4伯贤图片
+    url: /Image
     
 # Pagination
 paginate: 8
