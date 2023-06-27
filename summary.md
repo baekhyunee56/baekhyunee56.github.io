@@ -36,11 +36,11 @@ EXO七辑 EXIST 伯贤平台特典 [@边伯贤FearlessBaek](https://weibo.com/u/
           </tr>
           <tr>
             <td style="vertical-align: middle">KMS（PB）<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
-            <td style="vertical-align: middle">※中文卡背<br>指定特典@KRAM微店（6.27/进行中）<a href="https://shop1382036085.v.weidian.com/item.html?itemID=6406651608">KRAM微店购买</a>；<br>指定特典@KRAM微店（6.19/售罄）；<br> KMS 1+1 （进行中）<a href="https://shop1382036085.v.weidian.com/item.html?itemID=6405689639">KRAM微店购买</a></td>
+            <td style="vertical-align: middle">※中文卡背<br>指定特典@KRAM微店（6.19/售罄）；<br> KMS 1+1 （进行中）<a href="https://shop1382036085.v.weidian.com/item.html?itemID=6405689639">KRAM微店购买</a></td>
           </tr>
            <tr>
             <td style="vertical-align: middle">KMS（Digi）<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
-            <td style="vertical-align: middle">※中文卡背<br>指定特典@KRAM微店（6.27/售罄）；<br>指定特典@KRAM微店（6.19/售罄）；<br> KMS 1+1 （进行中）<a href="https://shop1382036085.v.weidian.com/item.html?itemID=6405681769">KRAM微店购买</a></td>
+            <td style="vertical-align: middle">※中文卡背<br>指定特典@KRAM微店（6.19/售罄）；<br> KMS 1+1 （进行中）<a href="https://shop1382036085.v.weidian.com/item.html?itemID=6405681769">KRAM微店购买</a></td>
           </tr>
           <tr>
             <td style="vertical-align: middle">Everline（PB）<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
