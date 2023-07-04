@@ -66,6 +66,10 @@ EXO七辑 EXIST 伯贤平台特典 [@边伯贤FearlessBaek](https://weibo.com/u/
             <td style="vertical-align: middle">K4（PB）<br><a href="https://s2.loli.net/2023/07/04/q5pScBdgOPNK74Z.png"><img src="https://s2.loli.net/2023/07/04/SwuNvtOQemhJZTr.png" ></a></td>
             <td style="vertical-align: middle">K4随机8拼（进行中）<a href="https://cn.ktown4u.com/eventsub?eve_no=7482331&biz_no=599">K4购买</a></td>
           </tr>
+          <tr>
+            <td style="vertical-align: middle">Shopee（PB）<br><a href="https://s2.loli.net/2023/07/04/4Xb3UE75fdeV8lg.png"><img src="https://s2.loli.net/2023/07/04/BJkfOXREAey6Umv.png" ></a></td>
+            <td style="vertical-align: middle">暂无链接</td>
+          </tr>
         </table>
     </div>
 </div>
