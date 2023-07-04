@@ -47,8 +47,8 @@ EXO七辑 EXIST 伯贤平台特典 [@边伯贤FearlessBaek](https://weibo.com/u/
             <td style="vertical-align: middle">指定特典（进行中）<a href="https://www.yetimall.fun/h5/#/pages/store/goodsDetail/goodsDetail?gid=5646&continueFlag=1961b80f775bfd9263cb4ee8416fc63d">Yetimall购买</a><br>EL随机8拼（进行中） <a href="https://www.yetimall.fun/h5/#/pages/store/goodsDetail/goodsDetail?gid=5648&continueFlag=1961b80f775bfd9263cb4ee8416fc63d">Yetimall购买</a></td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">Bandina（PB）<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
-            <td style="vertical-align: middle">指定特典（进行中）<a href="https://www.yetimall.fun/h5/#/pages/store/goodsDetail/goodsDetail?gid=5646&continueFlag=1961b80f775bfd9263cb4ee8416fc63d">Yetimall购买</a><br>Bandina随机8拼（进行中） <a href="https://www.yetimall.fun/h5/#/pages/store/goodsDetail/goodsDetail?gid=5648&continueFlag=1961b80f775bfd9263cb4ee8416fc63d">Yetimall购买</a></td>
+            <td style="vertical-align: middle">Bandina（PB）<br><a href="https://s2.loli.net/2023/07/04/Y8m7SipaBysFvlQ.png"><img src="https://s2.loli.net/2023/07/04/sp2KaYqH5VuJBzQ.png" ></a></td>
+            <td style="vertical-align: middle">※越南语卡背<br>指定特典（进行中）<a href="https://www.yetimall.fun/h5/#/pages/store/goodsDetail/goodsDetail?gid=5646&continueFlag=1961b80f775bfd9263cb4ee8416fc63d">Yetimall购买</a><br>Bandina随机8拼（进行中） <a href="https://www.yetimall.fun/h5/#/pages/store/goodsDetail/goodsDetail?gid=5648&continueFlag=1961b80f775bfd9263cb4ee8416fc63d">Yetimall购买</a></td>
           </tr>
           <tr>
             <td style="vertical-align: middle">MK（PB）<br><a href="https://s2.loli.net/2023/07/04/Tylbxje8s94Fi3c.png"><img src="https://s2.loli.net/2023/07/04/LcoGgSBsTpfrZJR.png" ></a></td>
