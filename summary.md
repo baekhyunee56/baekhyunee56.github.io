@@ -60,7 +60,7 @@ EXO七辑 EXIST 伯贤平台特典 [@边伯贤FearlessBaek](https://weibo.com/u/
           </tr>
           <tr>
             <td style="vertical-align: middle">IA（PB）<br><a href="https://s2.loli.net/2023/07/04/RdS8NfUtDPJ2ckn.png"><img src="https://s2.loli.net/2023/07/04/OBDocakIp6QVngJ.png" ></a></td>
-            <td style="vertical-align: middle">IA随机8拼（进行中）<a href="https://www.yetimall.fun/h5/#/pages/store/goodsDetail/goodsDetail?gid=5648&continueFlag=1961b80f775bfd9263cb4ee8416fc63d">Yetimall购买</a></td>
+            <td style="vertical-align: middle">指定特典<a href="https://weidian.com/item.html?itemID=6444140663&wfr=c&source=goods_home&sfr=app&continueFlag=80bb619576e267512bef940817a9cc9b">@边吧微店购买</a>；<br>IA随机8拼（进行中）<a href="https://www.yetimall.fun/h5/#/pages/store/goodsDetail/goodsDetail?gid=5648&continueFlag=1961b80f775bfd9263cb4ee8416fc63d">Yetimall购买</a></td>
           </tr>
            <tr>
             <td style="vertical-align: middle">K4（PB）<br><a href="https://s2.loli.net/2023/07/04/q5pScBdgOPNK74Z.png"><img src="https://s2.loli.net/2023/07/04/SwuNvtOQemhJZTr.png" ></a></td>
