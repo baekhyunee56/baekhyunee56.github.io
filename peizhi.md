@@ -24,10 +24,10 @@ Digipack版本封面大小为140x125x7 mm，大小和Bambi Jewel Case版差不�
             <td> Smini版</td>
           </tr>
           <tr>
-            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/02/M5ATYN9hznR8GaO.jpg"><img src="https://s2.loli.net/2023/07/02/RxJSmigzPW8Hyr4.jpg" ></a></td>
-            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/02/uwBvUqNWC6p2arX.jpg"><img src="https://s2.loli.net/2023/07/02/GUNHnAVJEqvFy8K.jpg" ></a></td>
-            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/02/M7XJbVyikYAaKr5.jpg"><img src="https://s2.loli.net/2023/07/02/jl8nE7Lfk4QOcsb.jpg" ></a></td>
-            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/02/3cEOjK4ApL5b9w8.jpg"><img src="https://s2.loli.net/2023/07/02/2otq9x3Gmw5CAFL.jpg" ></a></td>
+            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/07/V45PlEFYX3BQgWk.jpg"><img src="https://s2.loli.net/2023/07/02/RxJSmigzPW8Hyr4.jpg" ></a></td>
+            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/07/A6nPSXzJ8xZe4sl.jpg"><img src="https://s2.loli.net/2023/07/02/GUNHnAVJEqvFy8K.jpg" ></a></td>
+            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/07/NgYpRahUD41lqv8.jpg"><img src="https://s2.loli.net/2023/07/02/jl8nE7Lfk4QOcsb.jpg" ></a></td>
+            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/07/9R8IAK1YtZVmgSq.jpg"><img src="https://s2.loli.net/2023/07/02/2otq9x3Gmw5CAFL.jpg" ></a></td>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/07/mFTuSJpLGe84Ank.jpg"><img src="https://s2.loli.net/2023/07/07/p3Wo7VmChvc8RSK.jpg" ></a></td>
           </tr>
         </table>
