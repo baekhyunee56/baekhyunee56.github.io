@@ -67,6 +67,10 @@ EXO七辑 EXIST 伯贤平台特典 [@边伯贤FearlessBaek](https://weibo.com/u/
             <td style="vertical-align: middle">SW随机8拼（进行中）<a href="https://www.yetimall.fun/h5/#/pages/store/goodsDetail/goodsDetail?gid=5648&continueFlag=1961b80f775bfd9263cb4ee8416fc63d">Yetimall购买</a></td>
           </tr>
           <tr>
+            <td style="vertical-align: middle">Yes24直播卡（PB）<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
+            <td style="vertical-align: middle">指定特典@爱豆驿站微店（7.10/售罄）</td>
+          </tr>
+          <tr>
             <td style="vertical-align: middle">Shopee（PB）<br><a href="https://s2.loli.net/2023/07/04/4Xb3UE75fdeV8lg.png"><img src="https://s2.loli.net/2023/07/04/BJkfOXREAey6Umv.png" ></a></td>
             <td style="vertical-align: middle">暂无团购链接</td>
           </tr>
@@ -84,10 +88,6 @@ EXO七辑 EXIST 伯贤平台特典 [@边伯贤FearlessBaek](https://weibo.com/u/
           </tr>
           <tr>
             <td style="vertical-align: middle">MUMO（Digi）<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
-            <td style="vertical-align: middle">暂无团购链接</td>
-          </tr>
-          <tr>
-            <td style="vertical-align: middle">Yes24（PB）<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
             <td style="vertical-align: middle">暂无团购链接</td>
           </tr>
         </table>
