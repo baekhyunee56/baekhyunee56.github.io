@@ -67,6 +67,10 @@ EXO七辑 EXIST 伯贤平台特典 [@边伯贤FearlessBaek](https://weibo.com/u/
             <td style="vertical-align: middle">SW随机8拼（进行中）<a href="https://www.yetimall.fun/h5/#/pages/store/goodsDetail/goodsDetail?gid=5648&continueFlag=1961b80f775bfd9263cb4ee8416fc63d">Yetimall购买</a></td>
           </tr>
           <tr>
+            <td style="vertical-align: middle">SM快闪（PB）cr.@fouronee_<br><a href="https://s2.loli.net/2023/07/12/IZ2d8rpKCWwyGxa.jpg"><img src="https://s2.loli.net/2023/07/12/Tv3fmL4F8jQr6lO.jpg" ><br><a href="https://s2.loli.net/2023/07/12/tlos2JOFYpwHPne.jpg"><img src="https://s2.loli.net/2023/07/12/p4CwE8UG2ylvFQx.jpg" ></a></td>
+            <td style="vertical-align: middle">暂无团购链接</td>
+          </tr>
+          <tr>
             <td style="vertical-align: middle">Yes24直播卡（PB）<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
             <td style="vertical-align: middle">指定特典@爱豆驿站微店（7.10/售罄）</td>
           </tr>
@@ -101,6 +105,22 @@ EXO七辑 EXIST 伯贤平台特典 [@边伯贤FearlessBaek](https://weibo.com/u/
           <tr>
             <td style="vertical-align: middle">K4签售卡（PB）<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
             <td style="vertical-align: middle">暂无团购链接；<br>K4官方随机特典（进行中）<a href="https://cn.ktown4u.com/iteminfo?eve_no=10342634&biz_no=599&goods_no=97086&grp_no=10345252">K4购买</a></td>
+          </tr>
+          <tr>
+            <td style="vertical-align: middle">EL快闪（PB）<br><a href="https://s2.loli.net/2023/07/12/UOaqsZLtDkwNbiW.png"><img src="https://s2.loli.net/2023/07/12/ubQ8xjR3IFeMA5d.png" ></a></td>
+            <td style="vertical-align: middle">暂无团购链接</td>
+          </tr>
+          <tr>
+            <td style="vertical-align: middle">EL签售卡（PB）<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
+            <td style="vertical-align: middle">暂无团购链接</td>
+          </tr>
+          <tr>
+            <td style="vertical-align: middle">SR签售卡（PB）<br><a href="https://s2.loli.net/2023/07/12/odZivUGrltV4pOw.png"><img src="https://s2.loli.net/2023/07/12/cfJjPx97mTDsu4q.png" ></a></td>
+            <td style="vertical-align: middle">※中文卡背<br>※汪汪汪！我是小狗伯贤'ㅅ'<br>暂无团购链接；<br>SR官方随机特典（进行中）<a href="http://m.liveonepick.com/#/?productId=e7ed764ddca14807a679835922a08bec&continueFlag=1b5bf8fb0d2dedaf08755214652e6dfc">LOP购买寄大陆地址</a> <br> <a href="http://m.liveonepick.com/#/?productId=48add790a5594a418778a1c33d66849b&continueFlag=1b5bf8fb0d2dedaf08755214652e6dfc">LOP购买寄韩国地址</a></td>
+          </tr>
+          <tr>
+            <td style="vertical-align: middle">IA签售卡（PB）<br><a href="https://s2.loli.net/2023/07/12/2qhWX67HAegnMsB.png"><img src="https://s2.loli.net/2023/07/12/6nkfbP3gF7lD2zG.png" ></a></td>
+            <td style="vertical-align: middle">暂无团购链接</td>
           </tr>
         </table>
     </div>
