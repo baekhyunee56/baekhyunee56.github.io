@@ -43,7 +43,7 @@ EXO七辑 EXIST 伯贤平台特典 [@边伯贤FearlessBaek](https://weibo.com/u/
             <td style="vertical-align: middle">※闪卡卡面<br>指定特典@边吧微店（6.21/售罄）；<br>指定特典@边吧微店（6.22/售罄）;<br>指定特典@边吧微店（7.6/售罄）；<br> MS随机8拼（进行中）<a href="https://github.com/baekhyunee56/baekhyunee56.github.io/assets/137210713/37bb4926-a2a8-4e9c-b881-a223c5482dd7">保存二维码</a></td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">AM（PB）<br><a href="https://s2.loli.net/2023/07/04/49uorje3yARQS1G.png"><img src="https://s2.loli.net/2023/07/04/VT6lLpGSba8wYHr.png" ></a></td>
+            <td style="vertical-align: middle">AM（PB）<br>cr.@gahyun_B56<br><a href="https://s2.loli.net/2023/07/13/JNyvHWFuGb5q1A9.jpg"><img src="https://s2.loli.net/2023/07/13/kl1A8qiCFXgMaDd.jpg" ></a></td>
             <td style="vertical-align: middle">指定特典@LOP（6.19/售罄）；<br>指定特典@LOP（7.4/售罄）；<br> AM随机8拼（进行中）<a href="http://m.liveonepick.com/#/?productId=61e52d76e1e746b4967e9c4905a8f31a&continueFlag=1961b80f775bfd9263cb4ee8416fc63d">LOP平台购买</a></td>
           </tr>
           <tr>
@@ -55,7 +55,7 @@ EXO七辑 EXIST 伯贤平台特典 [@边伯贤FearlessBaek](https://weibo.com/u/
             <td style="vertical-align: middle">※中文卡背<br>※累的时候就想想我吧 我爱你<br>指定特典@LOP平台（6.19/售罄）；<br>指定特典@LOP（7.4/售罄）；<br> SR随机8拼（进行中）<a href="http://m.liveonepick.com/#/?productId=9c6c7ff682214800a7434933e1711f2a&continueFlag=1961b80f775bfd9263cb4ee8416fc63d">LOP平台购买</a></td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">K4（PB）<br><a href="https://s2.loli.net/2023/07/04/q5pScBdgOPNK74Z.png"><img src="https://s2.loli.net/2023/07/04/SwuNvtOQemhJZTr.png" ></a></td>
+            <td style="vertical-align: middle">K4（PB）<br>cr.@scan_exo<br><a href="https://s2.loli.net/2023/07/13/qn6Wt7wQFpMlKkR.jpg"><img src="https://s2.loli.net/2023/07/13/emd8nCs75hQqkPD.jpg" ></a></td>
             <td style="vertical-align: middle">指定特典@边吧微店（7.4/售罄）；<br>K4随机8拼（进行中）<a href="https://cn.ktown4u.com/eventsub?eve_no=7482331&biz_no=599">K4购买</a></td>
           </tr>
           <tr>
@@ -91,7 +91,7 @@ EXO七辑 EXIST 伯贤平台特典 [@边伯贤FearlessBaek](https://weibo.com/u/
             <td style="vertical-align: middle">暂无团购链接</td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">MUMO签售卡（所有版本）<br><a href="https://s2.loli.net/2023/07/10/WLsh57nQzXHoTpE.jpg"><img src="https://s2.loli.net/2023/07/10/hVvxXdtBlq8crHO.jpg" ></a></td>
+            <td style="vertical-align: middle">MUMO签售卡（所有版本）<br>cr.银河构图<br><a href="https://s2.loli.net/2023/07/13/ZjchmMYPfy16H9E.jpg"><img src="https://s2.loli.net/2023/07/13/IVakH6wNzCT8RtY.jpg" ></a></td>
             <td style="vertical-align: middle">暂无团购链接</td>
           </tr>
           <tr>
