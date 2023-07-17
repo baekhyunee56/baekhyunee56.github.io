@@ -99,7 +99,7 @@ permalink: /ktest/
           </tr>
           <tr>
             <td style="vertical-align: middle">Shopee<br><a href="https://s2.loli.net/2023/07/04/4Xb3UE75fdeV8lg.png"><img src="https://s2.loli.net/2023/07/04/BJkfOXREAey6Umv.png" ></a></td>
-            <td style="vertical-align: middle">Shopee签售<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
+            <td style="vertical-align: middle">Shopee签售<br><a href="https://s2.loli.net/2023/07/18/HXRpjFIz1e9wOLt.png"><img src="https://s2.loli.net/2023/07/18/IGyUoLgv4O3hKjT.png" ></a></td>
             <td style="vertical-align: middle">一直娱<br><a href="https://s2.loli.net/2023/07/07/uhsxt3iOaI5WrXM.png"><img src="https://s2.loli.net/2023/07/07/kxVyZbeYXaU1nlI.png" ></a></td>
           </tr>
           <tr>
