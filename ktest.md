@@ -80,49 +80,26 @@ permalink: /ktest/
     <div class="span4">
         <table>
           <tr>
-            <td>平台版本</td>
+            <td style="vertical-align: middle">SM快闪1<br>cr.@fouronee_ <br><a href="https://s2.loli.net/2023/07/12/IZ2d8rpKCWwyGxa.jpg"><img src="https://s2.loli.net/2023/07/12/Tv3fmL4F8jQr6lO.jpg" ></a></td>
+            <td style="vertical-align: middle">SM快闪2<br>cr.@fouronee_ <br><a href="https://s2.loli.net/2023/07/12/tlos2JOFYpwHPne.jpg"><img src="https://s2.loli.net/2023/07/12/p4CwE8UG2ylvFQx.jpg" ></a></td>
+            <td style="vertical-align: middle">Shopee<br><a href="https://s2.loli.net/2023/07/04/4Xb3UE75fdeV8lg.png"><img src="https://s2.loli.net/2023/07/04/BJkfOXREAey6Umv.png" ></a></td>
+            <td style="vertical-align: middle">Shopee签售<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">SM快闪（PB）<br>cr.@fouronee_ <br><a href="https://s2.loli.net/2023/07/12/IZ2d8rpKCWwyGxa.jpg"><img src="https://s2.loli.net/2023/07/12/Tv3fmL4F8jQr6lO.jpg" ></a><a href="https://s2.loli.net/2023/07/12/tlos2JOFYpwHPne.jpg"><img src="https://s2.loli.net/2023/07/12/p4CwE8UG2ylvFQx.jpg" ></a></td>
-          </tr>
-          <tr>
-            <td style="vertical-align: middle">Shopee（PB）<br><a href="https://s2.loli.net/2023/07/04/4Xb3UE75fdeV8lg.png"><img src="https://s2.loli.net/2023/07/04/BJkfOXREAey6Umv.png" ></a></td>
-          </tr>
-          <tr>
-            <td style="vertical-align: middle">一直娱（PB）<br><a href="https://s2.loli.net/2023/07/07/uhsxt3iOaI5WrXM.png"><img src="https://s2.loli.net/2023/07/07/kxVyZbeYXaU1nlI.png" ></a></td>
-          </tr>
-          <tr>
-            <td style="vertical-align: middle">教保文库（Digi）<br><a href="https://s2.loli.net/2023/07/08/MVieGjrALHwJfOx.jpg"><img src="https://s2.loli.net/2023/07/08/KngRWYXMh7FiDCt.jpg" ></a></td>
-          </tr>
-          <tr>
+            <td style="vertical-align: middle">一直娱<br><a href="https://s2.loli.net/2023/07/07/uhsxt3iOaI5WrXM.png"><img src="https://s2.loli.net/2023/07/07/kxVyZbeYXaU1nlI.png" ></a></td>
+            <td style="vertical-align: middle">K4签售卡<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
+            <td style="vertical-align: middle">教保文库<br><a href="https://s2.loli.net/2023/07/08/MVieGjrALHwJfOx.jpg"><img src="https://s2.loli.net/2023/07/08/KngRWYXMh7FiDCt.jpg" ></a></td>
             <td style="vertical-align: middle">永丰文库<br><a href="https://s2.loli.net/2023/07/10/4qpKdJWYgbUx2Nu.jpg"><img src="https://s2.loli.net/2023/07/10/KEjrWmSaPFw6G9v.jpg" ></a></td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">MUMO签售卡（所有版本）<br>cr.银河构图<br><a href="https://s2.loli.net/2023/07/13/ZjchmMYPfy16H9E.jpg"><img src="https://s2.loli.net/2023/07/13/IVakH6wNzCT8RtY.jpg" ></a></td>
+            <td style="vertical-align: middle">EL快闪<br><a href="https://s2.loli.net/2023/07/12/UOaqsZLtDkwNbiW.png"><img src="https://s2.loli.net/2023/07/12/ubQ8xjR3IFeMA5d.png" ></a></td>
+            <td style="vertical-align: middle">EL签售<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
+            <td style="vertical-align: middle">SR签售<br><a href="https://s2.loli.net/2023/07/12/odZivUGrltV4pOw.png"><img src="https://s2.loli.net/2023/07/12/cfJjPx97mTDsu4q.png" ></a></td>
+            <td style="vertical-align: middle">IA签售<br><a href="https://s2.loli.net/2023/07/12/2qhWX67HAegnMsB.png"><img src="https://s2.loli.net/2023/07/12/6nkfbP3gF7lD2zG.png" ></a></td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">MUMO（PB）<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
-          </tr>
-          <tr>
-            <td style="vertical-align: middle">MUMO（Digi）<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
-          </tr>
-          <tr>
-            <td style="vertical-align: middle">K4签售卡（PB）<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
-          </tr>
-          <tr>
-            <td style="vertical-align: middle">EL快闪（PB）<br><a href="https://s2.loli.net/2023/07/12/UOaqsZLtDkwNbiW.png"><img src="https://s2.loli.net/2023/07/12/ubQ8xjR3IFeMA5d.png" ></a></td>
-          </tr>
-          <tr>
-            <td style="vertical-align: middle">EL签售卡（PB）<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
-          </tr>
-          <tr>
-            <td style="vertical-align: middle">SR签售卡（PB）<br><a href="https://s2.loli.net/2023/07/12/odZivUGrltV4pOw.png"><img src="https://s2.loli.net/2023/07/12/cfJjPx97mTDsu4q.png" ></a></td>
-          </tr>
-          <tr>
-            <td style="vertical-align: middle">IA签售卡（PB）<br><a href="https://s2.loli.net/2023/07/12/2qhWX67HAegnMsB.png"><img src="https://s2.loli.net/2023/07/12/6nkfbP3gF7lD2zG.png" ></a></td>
-          </tr>
-          <tr>
-            <td style="vertical-align: middle">Shopee签售卡（PB）<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
+            <td style="vertical-align: middle">MUMO签售<br>cr.银河构图<br><a href="https://s2.loli.net/2023/07/13/ZjchmMYPfy16H9E.jpg"><img src="https://s2.loli.net/2023/07/13/IVakH6wNzCT8RtY.jpg" ></a></td>
+            <td style="vertical-align: middle">MUMO<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
           </tr>
         </table>
     </div>
