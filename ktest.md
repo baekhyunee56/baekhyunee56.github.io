@@ -83,7 +83,7 @@ permalink: /ktest/
     <div class="span4">
         <table>
           <tr>
-            <td style="vertical-align: middle", colspan="3">其它特典卡（边吧未团购）</td>
+            <td colspan="3">其它特典卡（边吧未团购）</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">EL快闪<br>cr.scan_exo</td>
