@@ -86,6 +86,9 @@ permalink: /ktest/
             <td colspan="3">其它特典卡（边吧未团购）</td>
           </tr>
           <tr>
+            <td colspan="3"> </td>
+          </tr>
+          <tr>
             <td style="vertical-align: middle">EL快闪<br>cr.scan_exo</td>
             <td style="vertical-align: middle">EL签售</td>
             <td style="vertical-align: middle">IA签售</td>
@@ -94,6 +97,9 @@ permalink: /ktest/
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/18/rvNbkoAzUfL9ZtW.png"><img src="https://s2.loli.net/2023/07/18/Bi4zaY9rw1mRIbs.png" ></a></td>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/12/2qhWX67HAegnMsB.png"><img src="https://s2.loli.net/2023/07/12/6nkfbP3gF7lD2zG.png" ></a></td>
+          </tr>
+          <tr>
+            <td colspan="3"> </td>
           </tr>
           <tr>
             <td style="vertical-align: middle">K4签售</td>
@@ -106,6 +112,9 @@ permalink: /ktest/
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
           </tr>
           <tr>
+            <td colspan="3"> </td>
+          </tr>
+          <tr>
             <td style="vertical-align: middle">SM快闪a<br>cr.fouronee_</td>
             <td style="vertical-align: middle">SM快闪b<br>cr.fouronee_</td>
             <td style="vertical-align: middle">SR签售</td>
@@ -116,6 +125,9 @@ permalink: /ktest/
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/12/odZivUGrltV4pOw.png"><img src="https://s2.loli.net/2023/07/12/cfJjPx97mTDsu4q.png" ></a></td>
           </tr>
           <tr>
+            <td colspan="3"> </td>
+          </tr>
+          <tr>
             <td style="vertical-align: middle">Shopee</td>
             <td style="vertical-align: middle">Shopee签售</td>
             <td style="vertical-align: middle">一直娱</td>
@@ -124,6 +136,9 @@ permalink: /ktest/
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/04/4Xb3UE75fdeV8lg.png"><img src="https://s2.loli.net/2023/07/04/BJkfOXREAey6Umv.png" ></a></td>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/18/HXRpjFIz1e9wOLt.png"><img src="https://s2.loli.net/2023/07/18/IGyUoLgv4O3hKjT.png" ></a></td>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/07/uhsxt3iOaI5WrXM.png"><img src="https://s2.loli.net/2023/07/07/kxVyZbeYXaU1nlI.png" ></a></td>
+          </tr>
+          <tr>
+            <td colspan="3"> </td>
           </tr>
           <tr>
             <td style="vertical-align: middle">教保文库</td>
