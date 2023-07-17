@@ -17,11 +17,11 @@ permalink: /ktest/
             <td>当前进度</td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">Everline（PB）<br><a href="https://s2.loli.net/2023/07/04/mQKLYXf1pqEOtMe.png"><img src="https://s2.loli.net/2023/07/04/zKSeLsMiOgNfGCX.png" ></a></td>
+            <td style="vertical-align: middle">EL（PB）<br><a href="https://s2.loli.net/2023/07/04/mQKLYXf1pqEOtMe.png"><img src="https://s2.loli.net/2023/07/04/zKSeLsMiOgNfGCX.png" ></a></td>
             <td style="vertical-align: middle">指定特典@Yetimall（已售罄）</td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">Bandina（PB）<br><a href="https://s2.loli.net/2023/07/10/CdS64uU1peA2Yi3.jpg"><img src="https://s2.loli.net/2023/07/10/s6mUfYiAhxbHMzC.jpg" ></a></td>
+            <td style="vertical-align: middle">BDN（PB）<br><a href="https://s2.loli.net/2023/07/10/CdS64uU1peA2Yi3.jpg"><img src="https://s2.loli.net/2023/07/10/s6mUfYiAhxbHMzC.jpg" ></a></td>
             <td style="vertical-align: middle">※越南语卡背<br>※谢谢你们依旧等待着我<br>指定特典@Yetimall（已售罄）<br>随机8拼@Yetimall（已售罄）</td>
           </tr>
           <tr>
@@ -41,7 +41,7 @@ permalink: /ktest/
             <td style="vertical-align: middle">※闪卡卡面<br>指定特典@边吧微店（已售罄）<br> 随机8拼@MakeStar（已售罄）</td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">AM（PB）<br>cr.@gahyun_B56<br><a href="https://s2.loli.net/2023/07/13/JNyvHWFuGb5q1A9.jpg"><img src="https://s2.loli.net/2023/07/13/kl1A8qiCFXgMaDd.jpg" ></a></td>
+            <td style="vertical-align: middle">AM（PB）<br>cr.scan_exo<br><a href="https://s2.loli.net/2023/07/18/dsVC7lZhcAoL1Ir.png"><img src="https://s2.loli.net/2023/07/18/fMDoaINgCuJ1m7W.png" ></a></td>
             <td style="vertical-align: middle">指定特典@LOP（已售罄）<br> 随机8拼@LOP（已售罄）</td>
           </tr>
           <tr>
@@ -53,11 +53,11 @@ permalink: /ktest/
             <td style="vertical-align: middle">※中文卡背<br>※累的时候就想想我吧 我爱你<br>指定特典@LOP（已售罄）<br> 随机8拼@LOP（已售罄）</td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">K4（PB）<br>cr.@scan_exo<br><a href="https://s2.loli.net/2023/07/13/qn6Wt7wQFpMlKkR.jpg"><img src="https://s2.loli.net/2023/07/13/emd8nCs75hQqkPD.jpg" ></a></td>
+            <td style="vertical-align: middle">K4（PB）<br>cr.scan_exo<br><a href="https://s2.loli.net/2023/07/13/qn6Wt7wQFpMlKkR.jpg"><img src="https://s2.loli.net/2023/07/13/emd8nCs75hQqkPD.jpg" ></a></td>
             <td style="vertical-align: middle">指定特典@边吧微店（已售罄）；<br>随机8拼@K4（已售罄）</td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">MK（PB）<br><a href="https://s2.loli.net/2023/07/04/Tylbxje8s94Fi3c.png"><img src="https://s2.loli.net/2023/07/04/LcoGgSBsTpfrZJR.png" ></a></td>
+            <td style="vertical-align: middle">MK（PB）<br>cr.scan_exo<br><a href="https://s2.loli.net/2023/07/18/9fpkVO32UK5X8Wd.png"><img src="https://s2.loli.net/2023/07/18/WEyLrT63beUF2SP.png" ></a></td>
             <td style="vertical-align: middle">随机8拼@Yetimall（已售罄）</td>
           </tr>
           <tr>
@@ -65,7 +65,7 @@ permalink: /ktest/
             <td style="vertical-align: middle">随机8拼@Yetimall（已售罄）</td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">Yes24直播卡（PB）<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
+            <td style="vertical-align: middle">Yes24直播<br>（PB）<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
             <td style="vertical-align: middle">指定特典@爱豆驿站微店（已售罄）</td>
           </tr>
         </table>
@@ -80,21 +80,23 @@ permalink: /ktest/
     <div class="span4">
         <table>
           <tr>
-            <td style="vertical-align: middle">SM快闪1<br>cr.@fouronee_ <br><a href="https://s2.loli.net/2023/07/12/IZ2d8rpKCWwyGxa.jpg"><img src="https://s2.loli.net/2023/07/12/Tv3fmL4F8jQr6lO.jpg" ></a></td>
-            <td style="vertical-align: middle">SM快闪2<br>cr.@fouronee_ <br><a href="https://s2.loli.net/2023/07/12/tlos2JOFYpwHPne.jpg"><img src="https://s2.loli.net/2023/07/12/p4CwE8UG2ylvFQx.jpg" ></a></td>
+            <td style="vertical-align: middle">SM快闪1<br>cr.fouronee_ <br><a href="https://s2.loli.net/2023/07/12/IZ2d8rpKCWwyGxa.jpg"><img src="https://s2.loli.net/2023/07/12/Tv3fmL4F8jQr6lO.jpg" ></a></td>
+            <td style="vertical-align: middle">SM快闪2<br>cr.fouronee_ <br><a href="https://s2.loli.net/2023/07/12/tlos2JOFYpwHPne.jpg"><img src="https://s2.loli.net/2023/07/12/p4CwE8UG2ylvFQx.jpg" ></a></td>
+            <td style="vertical-align: middle">一直娱<br><a href="https://s2.loli.net/2023/07/07/uhsxt3iOaI5WrXM.png"><img src="https://s2.loli.net/2023/07/07/kxVyZbeYXaU1nlI.png" ></a></td>
+          </tr>
+          <tr>
+            <td style="vertical-align: middle">K4签售<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
             <td style="vertical-align: middle">Shopee<br><a href="https://s2.loli.net/2023/07/04/4Xb3UE75fdeV8lg.png"><img src="https://s2.loli.net/2023/07/04/BJkfOXREAey6Umv.png" ></a></td>
             <td style="vertical-align: middle">Shopee签售<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">一直娱<br><a href="https://s2.loli.net/2023/07/07/uhsxt3iOaI5WrXM.png"><img src="https://s2.loli.net/2023/07/07/kxVyZbeYXaU1nlI.png" ></a></td>
-            <td style="vertical-align: middle">K4签售卡<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
             <td style="vertical-align: middle">教保文库<br><a href="https://s2.loli.net/2023/07/08/MVieGjrALHwJfOx.jpg"><img src="https://s2.loli.net/2023/07/08/KngRWYXMh7FiDCt.jpg" ></a></td>
             <td style="vertical-align: middle">永丰文库<br><a href="https://s2.loli.net/2023/07/10/4qpKdJWYgbUx2Nu.jpg"><img src="https://s2.loli.net/2023/07/10/KEjrWmSaPFw6G9v.jpg" ></a></td>
+            <td style="vertical-align: middle">SR签售<br><a href="https://s2.loli.net/2023/07/12/odZivUGrltV4pOw.png"><img src="https://s2.loli.net/2023/07/12/cfJjPx97mTDsu4q.png" ></a></td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">EL快闪<br><a href="https://s2.loli.net/2023/07/12/UOaqsZLtDkwNbiW.png"><img src="https://s2.loli.net/2023/07/12/ubQ8xjR3IFeMA5d.png" ></a></td>
+            <td style="vertical-align: middle">EL快闪<br>cr.scan_exo<br><a href="https://s2.loli.net/2023/07/18/rvNbkoAzUfL9ZtW.png"><img src="https://s2.loli.net/2023/07/18/Bi4zaY9rw1mRIbs.png" ></a></td>
             <td style="vertical-align: middle">EL签售<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
-            <td style="vertical-align: middle">SR签售<br><a href="https://s2.loli.net/2023/07/12/odZivUGrltV4pOw.png"><img src="https://s2.loli.net/2023/07/12/cfJjPx97mTDsu4q.png" ></a></td>
             <td style="vertical-align: middle">IA签售<br><a href="https://s2.loli.net/2023/07/12/2qhWX67HAegnMsB.png"><img src="https://s2.loli.net/2023/07/12/6nkfbP3gF7lD2zG.png" ></a></td>
           </tr>
           <tr>
