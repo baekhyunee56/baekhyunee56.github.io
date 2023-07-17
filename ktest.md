@@ -5,7 +5,7 @@ permalink: /ktest/
 ---
 
 
-## EXO七辑 EXIST 伯贤平台专辑特典 
+## EXO七辑 EXIST 伯贤平台专辑特典卡
 ### [@边伯贤FearlessBaek](https://weibo.com/u/3694863325) 团购进度
 
 <font size=2>
@@ -75,8 +75,8 @@ permalink: /ktest/
 
 
 
-### EXO七辑 EXIST 伯贤平台专辑其它特典（边吧未团购）
 
+其它特典卡（边吧未团购）
 <font size=2>
 
 <div class="row">
