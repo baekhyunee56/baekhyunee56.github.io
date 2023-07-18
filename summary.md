@@ -18,15 +18,15 @@ permalink: /summary/
           </tr>
           <tr>
             <td style="vertical-align: middle">K4（PB）<br>cr.scan_exo<br><a href="https://s2.loli.net/2023/07/13/qn6Wt7wQFpMlKkR.jpg"><img src="https://s2.loli.net/2023/07/13/emd8nCs75hQqkPD.jpg" ></a></td>
-            <td style="vertical-align: middle">指定特典@边吧微店（已售罄）专辑/特典卡已入库，7.18开始发货<br>随机8拼@K4（已售罄）</td>
+            <td style="vertical-align: middle">指定特典@边吧微店：微信扫描<a href="https://s2.loli.net/2023/07/18/LVuvgXZiTnA7Dlz.jpg">此二维码 </a>，输入微店订单编号（8开头）查询。快递为圆通，可以在<a href="https://www.ytoglobal.com/service/?continueFlag=fa0a99640c95b9e37fbc3caedce40d85">圆通国际官网</a>或菜鸟中查询物流 ​​​<br>随机8拼@K4（已售罄）</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">IA（PB）<br><a href="https://s2.loli.net/2023/07/04/RdS8NfUtDPJ2ckn.png"><img src="https://s2.loli.net/2023/07/04/OBDocakIp6QVngJ.png" ></a></td>
-            <td style="vertical-align: middle">指定特典@边吧微店（已售罄）专辑已入库，指定伯贤特典卡7.19入库，清点完毕后预计本周内尽快发货<br>随机8拼@Yetimall（已售罄）</td>
+            <td style="vertical-align: middle">指定特典@边吧微店：专辑已入库，指定伯贤特典卡7.19入库，清点完毕后预计本周内尽快发货<br>随机8拼@Yetimall（已售罄）</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">MS（PB）<br><a href="https://s2.loli.net/2023/07/04/BEucYCMdvGf6OPj.png"><img src="https://s2.loli.net/2023/07/04/CEPj7kSuzD91Q5d.png" ></a></td>
-            <td style="vertical-align: middle">※闪卡卡面<br>指定特典@边吧微店（已售罄）进度仍在确认中，有进展会尽快更新 ​​​<br> 随机8拼@MakeStar（已售罄）</td>
+            <td style="vertical-align: middle">※闪卡卡面<br>指定特典@边吧微店：进度仍在确认中，有进展会尽快更新 ​​​<br> 随机8拼@MakeStar（已售罄）</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">AM（PB）<br>cr.scan_exo<br><a href="https://s2.loli.net/2023/07/18/dsVC7lZhcAoL1Ir.png"><img src="https://s2.loli.net/2023/07/18/fMDoaINgCuJ1m7W.png" ></a></td>
