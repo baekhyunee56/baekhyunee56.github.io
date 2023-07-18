@@ -18,7 +18,7 @@ permalink: /summary/
           </tr>
           <tr>
             <td style="vertical-align: middle">K4（PB）<br>cr.scan_exo<br><a href="https://s2.loli.net/2023/07/13/qn6Wt7wQFpMlKkR.jpg"><img src="https://s2.loli.net/2023/07/13/emd8nCs75hQqkPD.jpg" ></a></td>
-            <td style="vertical-align: middle">指定特典@边吧微店：微信扫描<a href="https://s2.loli.net/2023/07/18/LVuvgXZiTnA7Dlz.jpg">此二维码 </a>，输入微店订单编号（8开头）查询。快递为圆通，可以在<a href="https://www.ytoglobal.com/service/?continueFlag=fa0a99640c95b9e37fbc3caedce40d85">圆通国际官网</a>或菜鸟中查询物流 ​​​<br>随机8拼@K4（已售罄）</td>
+            <td style="vertical-align: middle">指定特典@边吧微店：微信扫描<a href="https://s2.loli.net/2023/07/18/LVuvgXZiTnA7Dlz.jpg">此二维码 </a>，输入微店订单编号（8开头）查询。快递为圆通，可以在<a href="https://www.ytoglobal.com/service/">圆通国际官网</a>或菜鸟中查询物流 ​​​<br>随机8拼@K4（已售罄）</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">IA（PB）<br><a href="https://s2.loli.net/2023/07/04/RdS8NfUtDPJ2ckn.png"><img src="https://s2.loli.net/2023/07/04/OBDocakIp6QVngJ.png" ></a></td>
