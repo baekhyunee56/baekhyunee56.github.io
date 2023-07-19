@@ -21,11 +21,11 @@ permalink: /summary/
             <td style="vertical-align: middle">指定特典@边吧微店：微信扫描<a href="https://s2.loli.net/2023/07/18/LVuvgXZiTnA7Dlz.jpg">此二维码 </a>，输入微店订单编号（8开头）查询。快递为圆通，可以在<a href="https://www.ytoglobal.com/service/">圆通国际官网</a>或菜鸟中查询物流 ​​​<br>随机8拼@K4（已售罄）</td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">IA（PB）<br><a href="https://s2.loli.net/2023/07/04/RdS8NfUtDPJ2ckn.png"><img src="https://s2.loli.net/2023/07/04/OBDocakIp6QVngJ.png" ></a></td>
+            <td style="vertical-align: middle">IA（PB）<br><a href="https://s2.loli.net/2023/07/20/J3921oTMaPbkrXf.jpg"><img src="https://s2.loli.net/2023/07/20/gfnNaiUOz3cJX4s.jpg" ></a></td>
             <td style="vertical-align: middle">指定特典@边吧微店：专辑已入库，指定伯贤特典卡7.19入库，清点完毕后预计本周内尽快发货<br>随机8拼@Yetimall（已售罄）</td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">MS（PB）<br><a href="https://s2.loli.net/2023/07/04/BEucYCMdvGf6OPj.png"><img src="https://s2.loli.net/2023/07/04/CEPj7kSuzD91Q5d.png" ></a></td>
+            <td style="vertical-align: middle">MS（PB）<br>cr.CHANY0499<br><a href="https://s2.loli.net/2023/07/20/nmrhNdfHtoaw2IG.jpg"><img src="https://s2.loli.net/2023/07/20/pgbv9M8mZCzdSh7.jpg" ></a></td>
             <td style="vertical-align: middle">※闪卡卡面<br>指定特典@边吧微店：进度仍在确认中，有进展会尽快更新 ​​​<br> 随机8拼@MakeStar（已售罄）</td>
           </tr>
           <tr>
@@ -53,11 +53,11 @@ permalink: /summary/
             <td style="vertical-align: middle">随机8拼@Yetimall（已售罄）</td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">SR（PB）<br><a href="https://s2.loli.net/2023/07/04/8jwQBeSGyoHrgY1.png"><img src="https://s2.loli.net/2023/07/04/DEXRvQIPq68sfkV.png" ></a></td>
+            <td style="vertical-align: middle">SR（PB）<br><a href="https://s2.loli.net/2023/07/20/YoD9aG7xIl8ZRUr.png"><img src="https://s2.loli.net/2023/07/20/gG52y9cMlahFXbH.png" ></a></td>
             <td style="vertical-align: middle">※中文卡背<br>※要来听我的演唱会吗<br>指定特典@LOP（已售罄）<br> 随机8拼@LOP（已售罄）</td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">SR（Digi）<br><a href="https://s2.loli.net/2023/07/04/JklIjEK4rbRONWZ.png"><img src="https://s2.loli.net/2023/07/04/wgAvKrYL3sEFQqR.png" ></a></td>
+            <td style="vertical-align: middle">SR（Digi）<br><a href="https://s2.loli.net/2023/07/20/uzbOyvLxSqKegEr.png"><img src="https://s2.loli.net/2023/07/20/k7WL28bmMSrXCHz.png" ></a></td>
             <td style="vertical-align: middle">※中文卡背<br>※累的时候就想想我吧 我爱你<br>指定特典@LOP（已售罄）<br> 随机8拼@LOP（已售罄）</td>
           </tr>
           <tr>
@@ -121,7 +121,7 @@ permalink: /summary/
           <tr>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/12/IZ2d8rpKCWwyGxa.jpg"><img src="https://s2.loli.net/2023/07/12/Tv3fmL4F8jQr6lO.jpg" ></a></td>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/12/tlos2JOFYpwHPne.jpg"><img src="https://s2.loli.net/2023/07/12/p4CwE8UG2ylvFQx.jpg" ></a></td>
-            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/12/odZivUGrltV4pOw.png"><img src="https://s2.loli.net/2023/07/12/cfJjPx97mTDsu4q.png" ></a></td>
+            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/20/7nHwRmTutLUD3rP.png"><img src="https://s2.loli.net/2023/07/20/9qKBsY8fw3mVdc1.png" ></a></td>
           </tr>
           <tr>
             <td colspan="3"> </td>
