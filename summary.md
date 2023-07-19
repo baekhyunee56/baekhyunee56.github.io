@@ -25,7 +25,7 @@ permalink: /summary/
             <td style="vertical-align: middle">指定特典@边吧微店：专辑已入库，指定伯贤特典卡7.19入库，清点完毕后预计本周内尽快发货<br>随机8拼@Yetimall（已售罄）</td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">MS（PB）<br>cr.CHANY0499<br><a href="https://s2.loli.net/2023/07/20/nmrhNdfHtoaw2IG.jpg"><img src="https://s2.loli.net/2023/07/20/pgbv9M8mZCzdSh7.jpg" ></a></td>
+            <td style="vertical-align: middle">MS（PB）<br>cr.scan_exo<br><a href="https://s2.loli.net/2023/07/20/PHJuWL2o1ZhO8vt.jpg"><img src="https://s2.loli.net/2023/07/20/73NDLHKM4IqgoZv.jpg" ></a></td>
             <td style="vertical-align: middle">※闪卡卡面<br>指定特典@边吧微店：进度仍在确认中，有进展会尽快更新 ​​​<br> 随机8拼@MakeStar（已售罄）</td>
           </tr>
           <tr>
@@ -61,7 +61,7 @@ permalink: /summary/
             <td style="vertical-align: middle">※中文卡背<br>※累的时候就想想我吧 我爱你<br>指定特典@LOP（已售罄）<br> 随机8拼@LOP（已售罄）</td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">SW（PB）<br><a href="https://s2.loli.net/2023/07/04/tlwyPNbDmhj85M3.png"><img src="https://s2.loli.net/2023/07/04/xrfdI2QSbNgnyVt.png" ></a></td>
+            <td style="vertical-align: middle">SW（PB）<br>cr.scan_exo<br><a href="https://s2.loli.net/2023/07/20/XwplDVisjbP9auJ.jpg"><img src="https://s2.loli.net/2023/07/20/Vdpxt9SWbKFPNBq.jpg" ></a></td>
             <td style="vertical-align: middle">随机8拼@Yetimall（已售罄）</td>
           </tr>
           <tr>
