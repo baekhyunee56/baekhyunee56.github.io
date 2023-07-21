@@ -18,11 +18,11 @@ permalink: /summary/
           </tr>
           <tr>
             <td style="vertical-align: middle">K4（PB） cr.scan_exo<br><a href="https://s2.loli.net/2023/07/13/qn6Wt7wQFpMlKkR.jpg"><img src="https://s2.loli.net/2023/07/13/qn6Wt7wQFpMlKkR.jpg" ></a></td>
-            <td style="vertical-align: middle">指定特典@边吧微店：微信扫描<a href="https://s2.loli.net/2023/07/18/LVuvgXZiTnA7Dlz.jpg">此二维码 </a>，输入微店订单编号（8开头）查询。快递为圆通，可以在<a href="https://www.ytoglobal.com/service/">圆通国际官网</a>或菜鸟中查询物流 ​​​<br>随机8拼@K4（已售罄）</td>
+            <td style="vertical-align: middle">指定特典@边吧微店：微信扫描<a href="https://s2.loli.net/2023/07/18/LVuvgXZiTnA7Dlz.jpg">此二维码 </a>，输入微店订单编号（8开头）查询。<br>快递为圆通，可以在<a href="https://www.ytoglobal.com/service/">圆通国际官网</a>或菜鸟中查询物流 ​​​<br>随机8拼@K4（已售罄）</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">IA（PB） cr.cloudwithB<br><a href="https://s2.loli.net/2023/07/21/7cW5VDhR8MSl4En.jpg"><img src="https://s2.loli.net/2023/07/21/7cW5VDhR8MSl4En.jpg" ></a></td>
-            <td style="vertical-align: middle">指定特典@边吧微店：微信扫描<a href="https://s2.loli.net/2023/07/21/7ALyDtnk2gNxHP9.jpg">此二维码 </a>，输入微店订单编号（8开头）查询。快递为圆通，可以在<a href="https://www.ytoglobal.com/service/">圆通国际官网</a>或菜鸟中查询物流<br>随机8拼@Yetimall（已售罄）</td>
+            <td style="vertical-align: middle">指定特典@边吧微店：微信扫描<a href="https://s2.loli.net/2023/07/21/7ALyDtnk2gNxHP9.jpg">此二维码 </a>，输入微店订单编号（8开头）查询。<br>快递为圆通，可以在<a href="https://www.ytoglobal.com/service/">圆通国际官网</a>或菜鸟中查询物流<br>随机8拼@Yetimall（已售罄）</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">MS（PB） cr.scan_exo<br><a href="https://s2.loli.net/2023/07/20/PHJuWL2o1ZhO8vt.jpg"><img src="https://s2.loli.net/2023/07/20/PHJuWL2o1ZhO8vt.jpg" ></a></td>
