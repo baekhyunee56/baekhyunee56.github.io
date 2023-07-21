@@ -14,7 +14,7 @@ permalink: /ktest/
     <div class="span4">
         <table>
           <tr>
-            <td>平台版本</td>
+            <td width=80px>平台版本</td>
             <td>当前进度（7.18更新​​​）</td>
           </tr>
           <tr>
@@ -22,7 +22,7 @@ permalink: /ktest/
             <td style="vertical-align: middle">指定特典@边吧微店（已售罄）专辑/特典卡已入库，7.18开始发货<br>随机8拼@K4（已售罄）</td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">IA（PB）<br><a href="https://s2.loli.net/2023/07/04/RdS8NfUtDPJ2ckn.png"><img src="https://s2.loli.net/2023/07/04/OBDocakIp6QVngJ.png" ></a></td>
+            <td style="vertical-align: middle">IA（PB）<br><img src="https://s2.loli.net/2023/07/21/7cW5VDhR8MSl4En.jpg" ></td>
             <td style="vertical-align: middle">指定特典@边吧微店（已售罄）专辑已入库，指定伯贤特典卡7.19入库，清点完毕后预计本周内尽快发货<br>随机8拼@Yetimall（已售罄）</td>
           </tr>
           <tr>
@@ -89,14 +89,14 @@ permalink: /ktest/
             <td colspan="3"> </td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">EL快闪<br>cr.scan_exo</td>
-            <td style="vertical-align: middle">EL签售</td>
-            <td style="vertical-align: middle">IA签售</td>
+            <td width=100px>EL快闪<br>cr.scan_exo</td>
+            <td width=100px>EL签售</td>
+            <td width=100px>IA签售</td>
           </tr>
           <tr>
-            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/18/rvNbkoAzUfL9ZtW.png"><img src="https://s2.loli.net/2023/07/18/Bi4zaY9rw1mRIbs.png" ></a></td>
-            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/uf3g1rBbZh2UJEs.png" ></a></td>
-            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/12/2qhWX67HAegnMsB.png"><img src="https://s2.loli.net/2023/07/12/6nkfbP3gF7lD2zG.png" ></a></td>
+            <td style="vertical-align: middle"><img src="https://s2.loli.net/2023/07/18/rvNbkoAzUfL9ZtW.png" ></a></td>
+            <td style="vertical-align: middle"><img src="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png" ></td>
+            <td style="vertical-align: middle"><img src="https://s2.loli.net/2023/07/12/2qhWX67HAegnMsB.png" ></td>
           </tr>
           <tr>
             <td colspan="3"> </td>
