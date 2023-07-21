@@ -11,9 +11,9 @@ permalink: /summary/
 
 <div class="row">
     <div class="span4">
-        <table>
+        <table width="100%" style="table-layout:fixed">
           <tr>
-            <td width=100px>平台版本</td>
+            <td width="33%">平台版本</td>
             <td>当前进度（7.18更新​​​）</td>
           </tr>
           <tr>
