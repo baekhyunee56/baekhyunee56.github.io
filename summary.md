@@ -18,15 +18,15 @@ permalink: /summary/
           </tr>
           <tr>
             <td style="vertical-align: middle">K4（PB） cr.scan_exo<br><a href="https://s2.loli.net/2023/07/13/qn6Wt7wQFpMlKkR.jpg"><img src="https://s2.loli.net/2023/07/13/qn6Wt7wQFpMlKkR.jpg" ></a></td>
-            <td style="vertical-align: middle">指定特典@边吧微店：微信扫描<a href="https://s2.loli.net/2023/07/18/LVuvgXZiTnA7Dlz.jpg">此二维码 </a>，输入微店订单编号（8开头）查询。<br>快递为圆通，可以在<a href="https://www.ytoglobal.com/service/">圆通国际官网</a>或菜鸟中查询物流 ​​​<br>随机8拼@K4（已售罄）</td>
+            <td style="vertical-align: middle">指定特典@边吧微店：微信扫描<a href="https://s2.loli.net/2023/07/18/LVuvgXZiTnA7Dlz.jpg">此二维码 </a>，输入微店订单编号（8开头）查询。<br>快递为圆通，可以在<a href="https://www.ytoglobal.com/service/">圆通国际官网</a>或菜鸟中查询物流 ​​​<br>​​​<br>随机8拼@K4（已售罄）</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">IA（PB） cr.cloudwithB<br><a href="https://s2.loli.net/2023/07/21/7cW5VDhR8MSl4En.jpg"><img src="https://s2.loli.net/2023/07/21/7cW5VDhR8MSl4En.jpg" ></a></td>
-            <td style="vertical-align: middle">指定特典@边吧微店：微信扫描<a href="https://s2.loli.net/2023/07/21/7ALyDtnk2gNxHP9.jpg">此二维码 </a>，输入微店订单编号（8开头）查询。<br>快递为圆通，可以在<a href="https://www.ytoglobal.com/service/">圆通国际官网</a>或菜鸟中查询物流<br>随机8拼@Yetimall（已售罄）</td>
+            <td style="vertical-align: middle">指定特典@边吧微店：微信扫描<a href="https://s2.loli.net/2023/07/21/7ALyDtnk2gNxHP9.jpg">此二维码 </a>，输入微店订单编号（8开头）查询。<br>快递为圆通，可以在<a href="https://www.ytoglobal.com/service/">圆通国际官网</a>或菜鸟中查询物流<br>​​​<br>随机8拼@Yetimall（已售罄）</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">MS（PB） cr.scan_exo<br><a href="https://s2.loli.net/2023/07/20/PHJuWL2o1ZhO8vt.jpg"><img src="https://s2.loli.net/2023/07/20/PHJuWL2o1ZhO8vt.jpg" ></a></td>
-            <td style="vertical-align: middle">※闪卡卡面<br>指定特典@边吧微店：进度仍在确认中，有进展会尽快更新 ​​​<br> 随机8拼@MakeStar（已售罄）</td>
+            <td style="vertical-align: middle">※闪卡卡面<br>指定特典@边吧微店：微信扫描<a href="https://s2.loli.net/2023/07/26/J8OVbETeCnQU6uo.jpg">此二维码 </a>，输入微店订单编号（8开头）查询。<br>快递为圆通，可以在<a href="https://www.ytoglobal.com/service/">圆通国际官网</a>或菜鸟中查询物流<br>1.查询结果显示G+一串数字为快递单号<br>2.查询结果显示“待出单号”为未入库部分，下周会再更新一批单号<br>3.查询结果显示其他提示信息请联系<a href="https://s2.loli.net/2023/07/26/gnDtlB3sHmiaLMW.jpg">MS小程序客服 </a>沟通修改信息，不然无法进行发货<br>4.显示“查询无结果”的不属于三种任何一种情况，都是因为订单号输错了，麻烦大家看清楚自己下单的具体是什么，是否是在边吧微店下单的订单，是否成功支付<br><br>随机8拼@Yetimall（已售罄）</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">AM（PB） cr.scan_exo<br><a href="https://s2.loli.net/2023/07/18/dsVC7lZhcAoL1Ir.png"><img src="https://s2.loli.net/2023/07/18/dsVC7lZhcAoL1Ir.png" ></a></td>
