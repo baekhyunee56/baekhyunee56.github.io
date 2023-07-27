@@ -148,8 +148,8 @@ permalink: /summary/
             <td colspan="4"> </td>
           </tr>
           <tr>
+            <td style="vertical-align: middle">IA签售</td>
             <td style="vertical-align: middle">K4签售</td>
-            <td>IA签售</td>
           </tr>
           <tr>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/12/2qhWX67HAegnMsB.png"><img src="https://s2.loli.net/2023/07/12/2qhWX67HAegnMsB.png" ></a></td>
