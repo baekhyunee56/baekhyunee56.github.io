@@ -120,12 +120,12 @@ permalink: /summary/
           <tr>
             <td style="vertical-align: middle">一直娱1.0</td>  
             <td style="vertical-align: middle">一直娱2.0</td> 
-            <td style="vertical-align: middle">MUMO</td>
+            <td style="vertical-align: middle">一直娱签售</td> 
             <td style="vertical-align: middle">MUMO签售 cr.银河构图</td>
           </tr>
           <tr>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/07/uhsxt3iOaI5WrXM.png"><img src="https://s2.loli.net/2023/07/07/uhsxt3iOaI5WrXM.png" ></a></td>
-            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png" ></a></td>
+            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/27/ZSyO43dl6JE1uTQ.png"><img src="https://s2.loli.net/2023/07/27/ZSyO43dl6JE1uTQ.png" ></a></td>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png" ></a></td>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/13/ZjchmMYPfy16H9E.jpg"><img src="https://s2.loli.net/2023/07/13/ZjchmMYPfy16H9E.jpg" ></a></td>
           </tr>
@@ -135,13 +135,13 @@ permalink: /summary/
           <tr>
             <td style="vertical-align: middle">教保文库</td>
             <td style="vertical-align: middle">永丰文库</td>
-            <td>IA签售</td>
+            <td style="vertical-align: middle">SR2.0</td>
             <td style="vertical-align: middle">SR签售</td>
           </tr>
           <tr>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/08/MVieGjrALHwJfOx.jpg"><img src="https://s2.loli.net/2023/07/08/MVieGjrALHwJfOx.jpg" ></a></td>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/10/4qpKdJWYgbUx2Nu.jpg"><img src="https://s2.loli.net/2023/07/10/4qpKdJWYgbUx2Nu.jpg" ></a></td>
-            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/12/2qhWX67HAegnMsB.png"><img src="https://s2.loli.net/2023/07/12/2qhWX67HAegnMsB.png" ></a></td>
+            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/27/B6rvtaZQSThWupN.png"><img src="https://s2.loli.net/2023/07/27/B6rvtaZQSThWupN.png" ></a></td>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/20/7nHwRmTutLUD3rP.png"><img src="https://s2.loli.net/2023/07/20/7nHwRmTutLUD3rP.png" ></a></td>
           </tr>
           <tr>
@@ -149,8 +149,10 @@ permalink: /summary/
           </tr>
           <tr>
             <td style="vertical-align: middle">K4签售</td>
+            <td>IA签售</td>
           </tr>
           <tr>
+            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/12/2qhWX67HAegnMsB.png"><img src="https://s2.loli.net/2023/07/12/2qhWX67HAegnMsB.png" ></a></td>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png" ></a></td>
           </tr>
         </table>
