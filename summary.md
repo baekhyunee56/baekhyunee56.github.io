@@ -30,15 +30,15 @@ permalink: /summary/
           </tr>
           <tr>
             <td style="vertical-align: middle">AM（PB） cr.scan_exo<br><a href="https://s2.loli.net/2023/07/18/dsVC7lZhcAoL1Ir.png"><img src="https://s2.loli.net/2023/07/18/dsVC7lZhcAoL1Ir.png" ></a></td>
-            <td style="vertical-align: middle">指定特典@LOP（已售罄）<br> 随机8拼@LOP（已售罄）</td>
+            <td style="vertical-align: middle">指定特典@LOP：已发货，在LOP平台可查询单号<br> 随机8拼@LOP（已售罄）</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">BDN（PB）<br><a href="https://s2.loli.net/2023/07/10/CdS64uU1peA2Yi3.jpg"><img src="https://s2.loli.net/2023/07/10/CdS64uU1peA2Yi3.jpg" ></a></td>
-            <td style="vertical-align: middle">※越南语卡背<br>※谢谢你们依旧等待着我<br>指定特典@Yetimall（已售罄）<br>随机8拼@Yetimall（已售罄）</td>
+            <td style="vertical-align: middle">※越南语卡背<br>※谢谢你们依旧等待着我<br>指定特典@Yetimall：预计​7.31-8.6这周开始出库<br>随机8拼@Yetimall（已售罄）</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">EL（PB）<br><a href="https://s2.loli.net/2023/07/04/mQKLYXf1pqEOtMe.png"><img src="https://s2.loli.net/2023/07/04/mQKLYXf1pqEOtMe.png" ></a></td>
-            <td style="vertical-align: middle">指定特典@Yetimall（已售罄）</td>
+            <td style="vertical-align: middle">指定特典@Yetimall：7.28开始出库</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">KMS（PB）<br><a href="https://s2.loli.net/2023/07/04/XBCy45rZqYhiwcQ.png"><img src="https://s2.loli.net/2023/07/04/XBCy45rZqYhiwcQ.png" ></a></td>
@@ -70,7 +70,7 @@ permalink: /summary/
           </tr>
           <tr>
             <td style="vertical-align: middle">SR3.0（PB）<br><a href="https://s2.loli.net/2023/07/27/B6rvtaZQSThWupN.png"><img src="https://s2.loli.net/2023/07/27/B6rvtaZQSThWupN.png" ></a></td>
-            <td style="vertical-align: middle">※中文卡背<br>※小狗来啦！今天也要开心哦！<br>指定特典@LOP（已售罄）<br> 随机8拼 <a href="http://m.liveonepick.com/#/?productId=b49d5b6d60fb406eaf17e2105c801cf6&continueFlag=41306806c265863b4f12443a10b76ee9">@LOP </a>（进行中）</td>
+            <td style="vertical-align: middle">※中文卡背<br>※小狗来啦！今天也要开心哦！<br>指定特典@LOP（已售罄）<br> 随机8拼 <a href="http://m.liveonepick.com/#/?productId=b49d5b6d60fb406eaf17e2105c801cf6&continueFlag=41306806c265863b4f12443a10b76ee9">@LOP</a>（进行中）</td>
           </tr>
         </table>
     </div>
