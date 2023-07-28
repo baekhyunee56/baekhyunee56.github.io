@@ -14,7 +14,7 @@ permalink: /summary/
         <table width="100%" style="table-layout:fixed">
           <tr>
             <td width="33%">平台版本</td>
-            <td>当前进度（7.18更新​​​）</td>
+            <td>当前进度（7.28更新​​​）</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">K4（PB） cr.scan_exo<br><a href="https://s2.loli.net/2023/07/13/qn6Wt7wQFpMlKkR.jpg"><img src="https://s2.loli.net/2023/07/13/qn6Wt7wQFpMlKkR.jpg" ></a></td>
