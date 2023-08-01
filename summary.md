@@ -21,7 +21,7 @@ permalink: /summary/
             <td style="vertical-align: middle">指定特典@边吧微店：微信扫描<a href="https://s2.loli.net/2023/07/18/LVuvgXZiTnA7Dlz.jpg">此二维码 </a>，输入微店订单编号（8开头）查询。<br>快递为圆通，可以在<a href="https://www.ytoglobal.com/service/">圆通国际官网</a>或菜鸟中查询物流 ​​​<br>​​​<br>随机8拼@K4（已售罄）</td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">IA（PB） cr.cloudwithB<br><a href="https://s2.loli.net/2023/07/21/7cW5VDhR8MSl4En.jpg"><img src="https://s2.loli.net/2023/07/21/7cW5VDhR8MSl4En.jpg" ></a></td>
+            <td style="vertical-align: middle">IA（PB） cr.scan_exo<br><a href="https://s2.loli.net/2023/08/01/8wSEHjpfJO4PTCs.png"><img src="https://s2.loli.net/2023/08/01/8wSEHjpfJO4PTCs.png" ></a></td>
             <td style="vertical-align: middle">指定特典@边吧微店：微信扫描<a href="https://s2.loli.net/2023/07/21/7ALyDtnk2gNxHP9.jpg">此二维码 </a>，输入微店订单编号（8开头）查询。<br>快递为圆通，可以在<a href="https://www.ytoglobal.com/service/">圆通国际官网</a>或菜鸟中查询物流<br>​​​<br>随机8拼@Yetimall（已售罄）</td>
           </tr>
           <tr>
@@ -94,14 +94,14 @@ permalink: /summary/
           <tr>
             <td width="25%">SM快闪A cr.fouronee_</td>
             <td width="25%">SM快闪B cr.fouronee_</td>
-            <td width="25%">SM快闪C</td>
-            <td>SM快闪D</td>
+            <td width="25%">SM快闪C cr.fouronee_</td>
+            <td>SM快闪D cr.fouronee_</td>
           </tr>
           <tr>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/12/IZ2d8rpKCWwyGxa.jpg"><img src="https://s2.loli.net/2023/07/12/IZ2d8rpKCWwyGxa.jpg" ></a></td>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/12/tlos2JOFYpwHPne.jpg"><img src="https://s2.loli.net/2023/07/12/tlos2JOFYpwHPne.jpg" ></a></td>
-            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/25/Yf7bVkUwWOi28q5.jpg"><img src="https://s2.loli.net/2023/07/25/Yf7bVkUwWOi28q5.jpg" ></a></td>
-            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/25/C9jXuE2tQ4GdUNc.jpg"><img src="https://s2.loli.net/2023/07/25/C9jXuE2tQ4GdUNc.jpg" ></a></td>
+            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/08/01/EXnGafgIZSjswNW.jpg"><img src="https://s2.loli.net/2023/08/01/EXnGafgIZSjswNW.jpg" ></a></td>
+            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/08/01/ExGYecHqVZfwS4F.jpg"><img src="https://s2.loli.net/2023/08/01/ExGYecHqVZfwS4F.jpg" ></a></td>
           </tr>
           <tr>
             <td colspan="4"> </td>
