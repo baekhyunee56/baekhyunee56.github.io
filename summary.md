@@ -37,7 +37,7 @@ permalink: /summary/
             <td style="vertical-align: middle">※越南语卡背<br>※谢谢你们依旧等待着我<br>指定特典@Yetimall：预计​7.31-8.6这周开始出库<br>随机8拼@Yetimall（已售罄）</td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">EL（PB）<br><a href="https://s2.loli.net/2023/07/04/mQKLYXf1pqEOtMe.png"><img src="https://s2.loli.net/2023/07/04/mQKLYXf1pqEOtMe.png" ></a></td>
+            <td style="vertical-align: middle">EL（PB） cr.scan_exo<br><a href="https://s2.loli.net/2023/08/03/kZJTqMKyHPLumAd.png"><img src="https://s2.loli.net/2023/08/03/kZJTqMKyHPLumAd.png" ></a></td>
             <td style="vertical-align: middle">指定特典@Yetimall：7.28开始出库</td>
           </tr>
           <tr>
@@ -140,13 +140,13 @@ permalink: /summary/
             <td style="vertical-align: middle">教保文库</td>
             <td style="vertical-align: middle">永丰文库</td>
             <td style="vertical-align: middle">SR签售</td>
-            <td style="vertical-align: middle">K4签售</td>
+            <td style="vertical-align: middle">K4签售 cr.scan_exo</td>
           </tr>
           <tr>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/08/MVieGjrALHwJfOx.jpg"><img src="https://s2.loli.net/2023/07/08/MVieGjrALHwJfOx.jpg" ></a></td>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/10/4qpKdJWYgbUx2Nu.jpg"><img src="https://s2.loli.net/2023/07/10/4qpKdJWYgbUx2Nu.jpg" ></a></td>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/20/7nHwRmTutLUD3rP.png"><img src="https://s2.loli.net/2023/07/20/7nHwRmTutLUD3rP.png" ></a></td>
-            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png" ></a></td>
+            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/08/03/ycT3A1LonGOukIX.png"><img src="https://s2.loli.net/2023/08/03/ycT3A1LonGOukIX.png" ></a></td>
           </tr>
           <tr>
             <td colspan="4"> </td>
