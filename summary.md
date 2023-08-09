@@ -53,11 +53,11 @@ permalink: /summary/
             <td style="vertical-align: middle">随机8拼@Yetimall（已售罄）</td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">SR（PB）<br><a href="https://s2.loli.net/2023/07/20/YoD9aG7xIl8ZRUr.png"><img src="https://s2.loli.net/2023/07/20/YoD9aG7xIl8ZRUr.png" ></a></td>
+            <td style="vertical-align: middle">SR（PB） cr.fouronee_<br><a href="https://s2.loli.net/2023/08/09/ONwWqbH91AFd3pk.jpg"><img src="https://s2.loli.net/2023/08/09/ONwWqbH91AFd3pk.jpg" ></a></td>
             <td style="vertical-align: middle">※中文卡背<br>※要来听我的演唱会吗<br>指定特典@LOP：已发货，在LOP平台可查询单号<br> 随机8拼@LOP（已售罄）</td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">SR（Digi）<br><a href="https://s2.loli.net/2023/07/20/uzbOyvLxSqKegEr.png"><img src="https://s2.loli.net/2023/07/20/uzbOyvLxSqKegEr.png" ></a></td>
+            <td style="vertical-align: middle">SR（Digi） cr.fouronee_<br><a href="https://s2.loli.net/2023/08/09/8YvfVNjzBHQlW9L.jpg"><img src="https://s2.loli.net/2023/08/09/8YvfVNjzBHQlW9L.jpg" ></a></td>
             <td style="vertical-align: middle">※中文卡背<br>※累的时候就想想我吧 我爱你<br>指定特典@LOP（已售罄）<br> 随机8拼@LOP（已售罄）</td>
           </tr>
           <tr>
