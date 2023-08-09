@@ -114,7 +114,7 @@ permalink: /summary/
           </tr>
           <tr>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/18/rvNbkoAzUfL9ZtW.png"><img src="https://s2.loli.net/2023/07/18/rvNbkoAzUfL9ZtW.png" ></a></td>
-            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png" ></a></td>
+            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/08/09/WDNcrYehPBwo58I.jpg"><img src="https://s2.loli.net/2023/08/09/WDNcrYehPBwo58I.jpg" ></a></td>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/21/LVtomunlZsGqDNf.jpg"><img src="https://s2.loli.net/2023/07/21/LVtomunlZsGqDNf.jpg" ></a></td>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/18/HXRpjFIz1e9wOLt.png"><img src="https://s2.loli.net/2023/07/18/HXRpjFIz1e9wOLt.png" ></a></td>
           </tr>
