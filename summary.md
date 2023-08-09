@@ -130,7 +130,7 @@ permalink: /summary/
           <tr>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/07/uhsxt3iOaI5WrXM.png"><img src="https://s2.loli.net/2023/07/07/uhsxt3iOaI5WrXM.png" ></a></td>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/27/ZSyO43dl6JE1uTQ.png"><img src="https://s2.loli.net/2023/07/27/ZSyO43dl6JE1uTQ.png" ></a></td>
-            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png" ></a></td>
+            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/08/09/19iDuEqtJFY8MzA.png"><img src="https://s2.loli.net/2023/08/09/19iDuEqtJFY8MzA.png" ></a></td>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/13/ZjchmMYPfy16H9E.jpg"><img src="https://s2.loli.net/2023/07/13/ZjchmMYPfy16H9E.jpg" ></a></td>
           </tr>
           <tr>
