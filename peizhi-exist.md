@@ -1,6 +1,6 @@
 ---
 layout: page
-title: peizhi-exist
+title: exist专辑配置
 permalink: /peizhi-exist/
 ---
 
