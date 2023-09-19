@@ -18,59 +18,67 @@ permalink: /summary/
           </tr>
           <tr>
             <td style="vertical-align: middle">K4（PB） cr.scan_exo<br><a href="https://s2.loli.net/2023/07/13/qn6Wt7wQFpMlKkR.jpg"><img src="https://s2.loli.net/2023/07/13/qn6Wt7wQFpMlKkR.jpg" ></a></td>
-            <td style="vertical-align: middle">指定特典@边吧微店：微信扫描<a href="https://s2.loli.net/2023/07/18/LVuvgXZiTnA7Dlz.jpg">此二维码 </a>，输入微店订单编号（8开头）查询。<br>快递为圆通，可以在<a href="https://www.ytoglobal.com/service/">圆通国际官网</a>或菜鸟中查询物流 ​​​<br>​​​<br>随机8拼@K4（已售罄）</td>
+            <td style="vertical-align: middle">指定特典@边吧微店<br>随机8拼@K4（已售罄）<br>发货完毕</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">IA（PB） cr.scan_exo<br><a href="https://s2.loli.net/2023/08/01/8wSEHjpfJO4PTCs.png"><img src="https://s2.loli.net/2023/08/01/8wSEHjpfJO4PTCs.png" ></a></td>
-            <td style="vertical-align: middle">指定特典@边吧微店：微信扫描<a href="https://s2.loli.net/2023/07/21/7ALyDtnk2gNxHP9.jpg">此二维码 </a>，输入微店订单编号（8开头）查询。<br>快递为圆通，可以在<a href="https://www.ytoglobal.com/service/">圆通国际官网</a>或菜鸟中查询物流<br>​​​<br>随机8拼@Yetimall（已售罄）</td>
+            <td style="vertical-align: middle">指定特典@边吧微店<br>发货完毕</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">MS（PB） cr.scan_exo<br><a href="https://s2.loli.net/2023/07/20/PHJuWL2o1ZhO8vt.jpg"><img src="https://s2.loli.net/2023/07/20/PHJuWL2o1ZhO8vt.jpg" ></a></td>
-            <td style="vertical-align: middle">※闪卡卡面<br>指定特典@边吧微店：微信扫描<a href="https://s2.loli.net/2023/07/26/J8OVbETeCnQU6uo.jpg">此二维码 </a>，输入微店订单编号（8开头）查询。<br>快递为圆通，可以在<a href="https://www.ytoglobal.com/service/">圆通国际官网</a>或菜鸟中查询物流<br>1.查询结果显示G+一串数字为快递单号<br>2.查询结果显示“待出单号”为未入库部分，下周会再更新一批单号<br>3.查询结果显示其他提示信息请联系<a href="https://s2.loli.net/2023/07/26/gnDtlB3sHmiaLMW.jpg">MS小程序客服 </a>沟通修改信息，不然无法进行发货<br>4.显示“查询无结果”的不属于三种任何一种情况，都是因为订单号输错了，麻烦大家看清楚自己下单的具体是什么，是否是在边吧微店下单的订单，是否成功支付<br><br>随机8拼@Yetimall（已售罄）</td>
+            <td style="vertical-align: middle">※闪卡卡面<br>指定特典@边吧微店<br>发货完毕</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">AM（PB） cr.scan_exo<br><a href="https://s2.loli.net/2023/07/18/dsVC7lZhcAoL1Ir.png"><img src="https://s2.loli.net/2023/07/18/dsVC7lZhcAoL1Ir.png" ></a></td>
-            <td style="vertical-align: middle">指定特典@LOP：已发货，在LOP平台可查询单号<br> 随机8拼@LOP（已售罄）</td>
+            <td style="vertical-align: middle">指定特典@LOP：已发货，在LOP平台可查询单号<br> 随机8拼@LOP（已售罄）<br>发货完毕</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">BDN（PB）<br><a href="https://s2.loli.net/2023/07/10/CdS64uU1peA2Yi3.jpg"><img src="https://s2.loli.net/2023/07/10/CdS64uU1peA2Yi3.jpg" ></a></td>
-            <td style="vertical-align: middle">※越南语卡背<br>※谢谢你们依旧等待着我<br>指定特典@Yetimall：预计​7.31-8.6这周开始出库<br>随机8拼@Yetimall（已售罄）</td>
+            <td style="vertical-align: middle">※越南语卡背<br>※谢谢你们依旧等待着我<br>指定特典@Yetimall<br>随机8拼@Yetimall（已售罄）<br>发货完毕</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">EL（PB） cr.scan_exo<br><a href="https://s2.loli.net/2023/08/03/kZJTqMKyHPLumAd.png"><img src="https://s2.loli.net/2023/08/03/kZJTqMKyHPLumAd.png" ></a></td>
-            <td style="vertical-align: middle">指定特典@Yetimall：7.28开始出库</td>
+            <td style="vertical-align: middle">指定特典@Yetimall<br>发货完毕</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">KMS（PB）<br><a href="https://s2.loli.net/2023/07/04/XBCy45rZqYhiwcQ.png"><img src="https://s2.loli.net/2023/07/04/XBCy45rZqYhiwcQ.png" ></a></td>
-            <td style="vertical-align: middle">※中文卡背<br>※你想我的时候我也在想你<br>指定特典@KRAM微店（已售罄）<br> 1+1 @KRAM微店（已售罄）</td>
+            <td style="vertical-align: middle">※中文卡背<br>※你想我的时候我也在想你<br>指定特典@KRAM微店（已售罄）<br> 1+1 @KRAM微店（已售罄）<br>发货完毕</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">KMS（Digi）<br><a href="https://s2.loli.net/2023/07/04/qT6NLJXt4YEPZMV.png"><img src="https://s2.loli.net/2023/07/04/qT6NLJXt4YEPZMV.png" ></a></td>
-            <td style="vertical-align: middle">※中文卡背<br>※小狗一直想你 wo ai ni<br>指定特典@KRAM微店（已售罄）<br> 1+1 @KRAM微店（已售罄）</td>
+            <td style="vertical-align: middle">※中文卡背<br>※小狗一直想你 wo ai ni<br>指定特典@KRAM微店（已售罄）<br> 1+1 @KRAM微店（已售罄）<br>发货完毕</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">MK（PB） cr.scan_exo<br><a href="https://s2.loli.net/2023/07/18/9fpkVO32UK5X8Wd.png"><img src="https://s2.loli.net/2023/07/18/9fpkVO32UK5X8Wd.png" ></a></td>
-            <td style="vertical-align: middle">随机8拼@Yetimall（已售罄）</td>
+            <td style="vertical-align: middle">随机8拼@Yetimall（已售罄）<br>发货完毕</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">SR（PB） cr.fouronee_<br><a href="https://s2.loli.net/2023/08/09/ONwWqbH91AFd3pk.jpg"><img src="https://s2.loli.net/2023/08/09/ONwWqbH91AFd3pk.jpg" ></a></td>
-            <td style="vertical-align: middle">※中文卡背<br>※要来听我的演唱会吗<br>指定特典@LOP：已发货，在LOP平台可查询单号<br> 随机8拼@LOP（已售罄）</td>
+            <td style="vertical-align: middle">※中文卡背<br>※要来听我的演唱会吗<br>指定特典@LOP：已发货，在LOP平台可查询单号<br> 随机8拼@LOP（已售罄）<br>发货完毕</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">SR（Digi） cr.fouronee_<br><a href="https://s2.loli.net/2023/08/09/8YvfVNjzBHQlW9L.jpg"><img src="https://s2.loli.net/2023/08/09/8YvfVNjzBHQlW9L.jpg" ></a></td>
-            <td style="vertical-align: middle">※中文卡背<br>※累的时候就想想我吧 我爱你<br>指定特典@LOP（已售罄）<br> 随机8拼@LOP（已售罄）</td>
+            <td style="vertical-align: middle">※中文卡背<br>※累的时候就想想我吧 我爱你<br>指定特典@LOP（已售罄）<br> 随机8拼@LOP（已售罄）<br>发货完毕</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">SW（PB） cr.scan_exo<br><a href="https://s2.loli.net/2023/07/20/XwplDVisjbP9auJ.jpg"><img src="https://s2.loli.net/2023/07/20/XwplDVisjbP9auJ.jpg" ></a></td>
-            <td style="vertical-align: middle">随机8拼@Yetimall（已售罄）</td>
+            <td style="vertical-align: middle">随机8拼@Yetimall（已售罄）<br>发货完毕</td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">Yes24直播（PB）<br><a href="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png"><img src="https://s2.loli.net/2023/06/22/rEcaCqIRYmPKFjU.png" ></a></td>
-            <td style="vertical-align: middle">指定特典@爱豆驿站微店（已售罄）</td>
+            <td style="vertical-align: middle">Yes24直播（PB）cr.fouronee_<br><a href="https://s2.loli.net/2023/09/19/dk9yKfo8rEbhRHs.jpg"><img src="https://s2.loli.net/2023/09/19/dk9yKfo8rEbhRHs.jpg" ></a></td>
+            <td style="vertical-align: middle">指定特典@爱豆驿站微店（已售罄）<br>发货完毕</td>
           </tr>
           <tr>
             <td style="vertical-align: middle">SR3.0（PB）<br><a href="https://s2.loli.net/2023/08/16/jkJrqFB5TYcVl4s.png"><img src="https://s2.loli.net/2023/08/16/jkJrqFB5TYcVl4s.png" ></a></td>
-            <td style="vertical-align: middle">※中文卡背<br>※小狗来啦！今天也要开心哦！<br>指定特典@LOP（已售罄）<br> 随机8拼 <a href="http://m.liveonepick.com/#/?productId=b49d5b6d60fb406eaf17e2105c801cf6&continueFlag=41306806c265863b4f12443a10b76ee9">@LOP</a>（进行中）</td>
+            <td style="vertical-align: middle">※中文卡背<br>※小狗来啦！今天也要开心哦！<br>指定特典@LOP（已售罄）<br>发货完毕</td>
+          </tr>
+          <tr>
+            <td style="vertical-align: middle">SR4.0（PB）<br><a href="https://s2.loli.net/2023/09/19/KiO8nr51AGJ2SYe.jpg"><img src="https://s2.loli.net/2023/09/19/KiO8nr51AGJ2SYe.jpg" ></a></td>
+            <td style="vertical-align: middle">※拍立得<br>指定特典@LOP（已售罄）<br>发货中</td>
+          </tr>
+          <tr>
+            <td style="vertical-align: middle">YZY4.0（Digi）<br><a href="https://s2.loli.net/2023/09/19/efrix3joJX1wQZD.jpg"><img src="https://s2.loli.net/2023/09/19/efrix3joJX1wQZD.jpg" ></a></td>
+            <td style="vertical-align: middle">※中文卡背<br>※别着急，慢慢来！<br>指定特典@边吧微店（已售罄）<br>需补邮（还未开）</td>
           </tr>
         </table>
     </div>
@@ -139,23 +147,23 @@ permalink: /summary/
           <tr>
             <td style="vertical-align: middle">教保文库</td>
             <td style="vertical-align: middle">永丰文库</td>
-            <td style="vertical-align: middle">SR签售</td>
+            <td style="vertical-align: middle">SR签售 cr.fouronee_</td>
             <td style="vertical-align: middle">K4签售 cr.scan_exo</td>
           </tr>
           <tr>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/08/MVieGjrALHwJfOx.jpg"><img src="https://s2.loli.net/2023/07/08/MVieGjrALHwJfOx.jpg" ></a></td>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/10/4qpKdJWYgbUx2Nu.jpg"><img src="https://s2.loli.net/2023/07/10/4qpKdJWYgbUx2Nu.jpg" ></a></td>
-            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/08/16/ESencl7O2zoVt3D.png"><img src="https://s2.loli.net/2023/08/16/ESencl7O2zoVt3D.png" ></a></td>
+            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/09/19/FbznNrDCZu21mk5.jpg"><img src="https://s2.loli.net/2023/09/19/FbznNrDCZu21mk5.jpg" ></a></td>
             <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/08/03/ycT3A1LonGOukIX.png"><img src="https://s2.loli.net/2023/08/03/ycT3A1LonGOukIX.png" ></a></td>
           </tr>
           <tr>
             <td colspan="4"> </td>
           </tr>
           <tr>
-            <td style="vertical-align: middle">IA签售</td>
+            <td style="vertical-align: middle">IA签售 cr.fouronee_</td>
           </tr>
           <tr>
-            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/07/12/2qhWX67HAegnMsB.png"><img src="https://s2.loli.net/2023/07/12/2qhWX67HAegnMsB.png" ></a></td>
+            <td style="vertical-align: middle"><a href="https://s2.loli.net/2023/09/19/TjRNmrMDtOc4pin.jpg"><img src="https://s2.loli.net/2023/09/19/TjRNmrMDtOc4pin.jpg" ></a></td>
           </tr>
         </table>
     </div>
