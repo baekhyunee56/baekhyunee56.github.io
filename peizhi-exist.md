@@ -11,6 +11,8 @@ PB版本三种大小均为188x254x8.5 mm，大小介于Delight和Bambi PB版之�
 
 Digipack版本封面大小为140x125x7 mm，大小和Bambi Jewel Case版差不多，28页内页。伯贤封面对应的是伯贤内页，小卡和折叠海报是8种随机一种
 
+[专辑特典卡总结](https://baekhyunee56.github.io/exist%E7%89%B9%E5%85%B8%E5%8D%A1/)
+
 ## 配置图（点击缩略图可查看大图）
 <font size=2>
 <div class="row">

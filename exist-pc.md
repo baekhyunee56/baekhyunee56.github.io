@@ -1,11 +1,7 @@
 ---
 layout: post
 title: "EXO七辑Exist伯贤特典卡总结"
-date:   2023-09-19
-tags: [exo]
-#comments: true
-author: baekhyunee56
-#toc: true
+permalink: /exist特典卡/
 ---
 
 <font size=2>
