@@ -22,12 +22,10 @@ favicon: https://raw.githubusercontent.com/baekhyunee56/baekhyunee56.github.io/m
 navigation:
   - name: 首页
     url: /
-  - name: 专辑配置
+  - name: 往年专辑配置
     url: /peizhi
   - name: 注意事项
     url: /attention
-  - name: 特典卡进度
-    url: /summary
 
 # Pagination
 paginate: 8
