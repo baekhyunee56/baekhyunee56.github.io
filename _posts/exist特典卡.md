@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "EXO七辑 EXIST 伯贤特典卡总结"
+title: "EXO七辑Exist伯贤特典卡总结"
 date:   2023-09-19
-tags: [exist]
+tags: [exo]
 #comments: true
 author: baekhyunee56
 #toc: true
@@ -13,7 +13,7 @@ author: baekhyunee56
 <div class="row">
     <div class="span4">
         <table width="100%" style="table-layout:fixed">
-<tr>
+          <tr>
             <td colspan="4">边吧团购特典卡</td>
           </tr>
           <tr>
@@ -87,7 +87,7 @@ author: baekhyunee56
 <div class="row">
     <div class="span4">
         <table width="100%" style="table-layout:fixed">
-<tr>
+          <tr>
             <td colspan="4">其它特典卡（边吧未团购）</td>
           </tr>
           <tr>
