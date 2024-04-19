@@ -1,7 +1,7 @@
 ---
 layout: page
-title: exist专辑配置
-permalink: /peizhi-exist/
+title: Exist专辑配置
+permalink: /exist配置/
 ---
 
 

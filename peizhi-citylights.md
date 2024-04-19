@@ -1,7 +1,7 @@
 ---
 layout: page
-title: city lights专辑配置
-permalink: /peizhi-citylights/
+title: City Lights专辑配置
+permalink: /citylights配置/
 ---
 
 
