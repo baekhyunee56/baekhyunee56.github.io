@@ -15,7 +15,7 @@ permalink: /citylights配置/
 - Folded poster 两种随机
 - 小卡 每个版本两种
 - 首批大海报 两种随机
-- 当时团购价67
+- 当时团购价66
 
 ### KIHNO版 : [kt官方拆专视频](https://b23.tv/nbIA1ej)
 - 封面：1 种
